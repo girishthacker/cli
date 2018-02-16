@@ -1,0 +1,32 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "cli-table",
+  "main": "bot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.1.5:10080/gireesh/IPL_CSV_filter.git"
+  },
+  "keywords": [
+    "rainbow",
+    "awesome"
+  ],
+  "author": "Gireesh Thakkar",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "csv-sort": "^2.0.6",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^22.2.2"
+  }
+}
